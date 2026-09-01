@@ -1,1 +1,1 @@
-echo "this is code for cart"
+echo "this is code for CART"
